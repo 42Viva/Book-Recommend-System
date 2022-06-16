@@ -29,7 +29,7 @@ Design and implement an online book recommend system which based on CF algorithm
 
 如图：
 
-![image-20220419124746089](image\database.jpg)
+![py36](image\py36.jpg)
 
 
 
@@ -40,7 +40,7 @@ Design and implement an online book recommend system which based on CF algorithm
 ### 3.1 创建表
 
 打开Pycharm左下角的Terminal：
-![image-20220419130245813](image\jh.png)
+![create](image\create.jpg)
 
 有括号，直接运行命令：
 
