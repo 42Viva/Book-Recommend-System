@@ -152,3 +152,26 @@ http://127.0.0.1:8000/
 
 至此，整个项目运行完成
 ![index](image/index.jpg)
+
+
+## 7、注册和登录
+
+
+
+![register](./image/register.jpg)
+
+
+
+## 8、用户推荐
+
+
+
+![recommend](./image/recommend.jpg)
+
+
+
+### 论坛
+
+![message](image/message.jpg)
+
+
