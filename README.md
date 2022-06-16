@@ -29,7 +29,7 @@ Design and implement an online book recommend system which based on CF algorithm
 
 如图：
 
-![image-20220419124746089](image\xn.png)
+![image-20220419124746089](image\database.jpg)
 
 
 
