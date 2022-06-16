@@ -9,7 +9,7 @@ Design and implement an online book recommend system which based on CF algorithm
 然后按以下图片所示找到相应位置，修改连接mysql的用户名与密码
 ```
 
-![1587389870694](image/1587389870694.png)
+![database](image/database.jpg)
 
 
 
