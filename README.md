@@ -94,7 +94,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-![image-20220419125628274](image\jhxn.png)
+![run](image/run.jpg)
 
 如果没有出现括号，则说明虚拟环境 激活失败，这时候只能使用绝对路径来启动项目：
 
@@ -117,10 +117,6 @@ django.core.exceptions.ImproperlyConfigured: mysqlclient 1.3.13 or newer is requ
 
 解决方案，找到安装的django，django->db->base.py注释掉36、37行
 
-![1618153044696](image\zs.png)
-
-
-
 ## 5、上架图书
 
 ```
@@ -131,6 +127,7 @@ python manage.py runserver
 
 然后打开浏览器
 
+
 ```
 输入地址
 http://127.0.0.1:8000/create_book/
@@ -139,7 +136,7 @@ http://127.0.0.1:8000/create_book/
 http://127.0.0.1:8000/admin/
 ```
 
-![1583057347009](image/1583057347009.png)
+![admin](image/admin.jpg)
 
 
 
@@ -154,3 +151,4 @@ http://127.0.0.1:8000/
 ```
 
 至此，整个项目运行完成
+![index](image/index.jpg)
